@@ -6,6 +6,7 @@ const Router = Ember.Router.extend({
   rootURL: config.rootURL
 });
 // Comment
+// Hey, I'm in the branch!
 Router.map(function() {
 });
 
